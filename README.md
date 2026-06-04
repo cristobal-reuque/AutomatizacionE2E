@@ -1,7 +1,7 @@
-# Desafio Automatizacion E2E
-Framework de Automatizacion E2E Utilizando Selenium WebDriver + Cucumber + Junit + Maven
+# Desafio Automatización E2E
+Framework de Automatización E2E Utilizando Selenium WebDriver + Cucumber + Junit + Maven
 
-Pagina utlizada para los test: https://www.saucedemo.com/
+Página utlizada para los test: https://www.saucedemo.com/
 
 ## Objetivo: 
 Automatizar escenarios funcionales sobre la web SauceDemo, usando buenas prácticas como: 
