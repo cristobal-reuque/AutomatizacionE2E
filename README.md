@@ -3,7 +3,7 @@ Framework de Automatizacion E2E Utilizando Selenium WebDriver + Cucumber + Junit
 
 Pagina utlizada para los test: https://www.saucedemo.com/
 
-** Objetivo: Automatizar escenarios funcionales sobre la aplicación web, usando buenas prácticas como: **
+Objetivo: Automatizar escenarios funcionales sobre la aplicación web, usando buenas prácticas como: 
 - Page Object Model (POM)
 - separación de responsabilidades
 - ejecución por navegador
