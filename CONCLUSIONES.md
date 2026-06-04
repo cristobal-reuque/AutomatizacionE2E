@@ -34,7 +34,7 @@ La solución desarrollada permite una mejor organización del código mediante e
 - And se visualiza el home de la pagina
 - When agrego el primer producto al carrito de compras
 - And ingreso al carrito de compras
--Then se visualiza el carrito de compras con "1" producto
+- Then se visualiza el carrito de compras con "1" producto
 
 [INFO] Results:
 [INFO]
@@ -57,7 +57,7 @@ La solución desarrollada permite una mejor organización del código mediante e
 - And agrego el primer producto al carrito de compras
 - And ingreso al carrito de compras
 - When se visualiza el carrito de compras con "1" producto
--Then elimino un producto del carrito de compras
+- Then elimino un producto del carrito de compras
 
 [INFO] Results:
 [INFO]
